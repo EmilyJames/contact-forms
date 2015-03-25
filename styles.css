@@ -1,0 +1,21 @@
+img {
+	padding-top: 2em;
+}
+
+.btn-mint {
+	background-color: #BCDFD6;
+}
+
+.btn-mint:hover {
+	color: #fff;
+}
+
+
+.form-control {
+	border-radius: 0;
+}
+
+.btn {
+	border-radius: 50px;
+	height: 80px;
+}
